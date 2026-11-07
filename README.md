@@ -1,24 +1,59 @@
-# 你好，我是 stellabalck528 👋
+# Hi there, I'm stellablack528! 👋
 
-计算机科学与技术专业本科生，目前主要学习和实践 **C++、Linux、Qt、网络编程与后端开发**。
+🎓 I'm a Computer Science undergraduate with a growing interest in **C++, Linux, systems programming, network programming, and software development**.
 
-我还在持续打基础，也在尝试把课堂知识真正落到项目里。相比单纯完成课程作业，我更喜欢做一些可以长期维护、不断迭代的小项目，并通过博客记录自己的学习过程。
+I enjoy turning what I learn into real projects. Rather than simply completing coursework, I prefer building things that I can maintain, improve, and learn from over time.
+
+I'm still strengthening my fundamentals, exploring new technologies, and documenting my progress along the way.
+
+💬 **I'd be happy to receive any feedback, suggestions, or code reviews that could help me improve.** Feel free to open an issue, share your thoughts, or reach out!
+
+⭐ If you find any of my projects interesting, I'd really appreciate your support!
 
 ---
 
-## 📌 代表项目
+## 📌 Featured Projects
+
+### 📖 TaleState C++
+
+[![TaleState C++](https://github-readme-stats.vercel.app/api/pin/?username=stellablack528&repo=talestate-cpp)](https://github.com/stellablack528/talestate-cpp)
+
+A **C++20-based narrative RPG engine** that combines deterministic world rules with LLM-powered storytelling.
+
+The project explores how language models can interpret player actions and generate narratives while a C++ engine maintains consistent and reliable game states.
+
+**Key areas:**
+- Data-driven narrative systems and JSON-based story packages
+- Deterministic state management and rule validation
+- LLM Agent integration and structured actions
+- Qt desktop application development
+- Automated testing and cross-platform builds
+
+**Tech Stack:** `C++20` `CMake` `JSON` `Qt6` `LLM Agent` `Catch2`
+
+> Exploring the intersection of software engineering, interactive storytelling, and AI.
+
+---
 
 ### 🪄 Arcane Campus Online
 
 [![Arcane Campus Online](https://github-readme-stats.vercel.app/api/pin/?username=stellablack528&repo=arcane-campus-online)](https://github.com/stellablack528/arcane-campus-online)
 
-一个正在开发中的多人在线文字 RPG 项目。
+A multiplayer online text-based RPG project built with **C++ and Linux network programming**.
 
-目前主要用于实践：
+This project helps me gain practical experience in backend architecture, network communication, and concurrent programming.
 
-`C++` `Linux` `TCP` `Epoll` `Reactor` `Thread Pool` `Qt6` `MySQL` `Redis`
+**Key areas:**
+- TCP socket programming
+- Epoll-based event handling
+- Reactor architecture
+- Thread pools and multithreading
+- Client-server communication
+- Database integration
 
-> 项目仍在持续完善中，目前更关注基础架构和网络部分的实现。
+**Tech Stack:** `C++20` `Linux` `TCP` `Epoll` `Reactor` `Thread Pool` `Qt6` `MySQL` `Redis`
+
+> An ongoing project focused on strengthening my understanding of network programming and backend systems.
 
 ---
 
@@ -26,92 +61,97 @@
 
 [![TinyBloom](https://github-readme-stats.vercel.app/api/pin/?username=stellablack528&repo=TinyBloom-Personal-Planner)](https://github.com/stellablack528/TinyBloom-Personal-Planner)
 
-一个使用 **C++20 + Qt6 + QML + SQLite** 开发的本地优先个人计划管理应用。
+A free, open-source, **local-first personal planner** built with C++20, Qt6, QML, and SQLite.
 
-目前包含或计划实现：
+TinyBloom is designed to make daily planning feel simple and manageable while keeping personal data stored locally.
 
-- 任务与子任务管理
-- 优先级与截止日期
-- 本地 SQLite 数据存储
-- 番茄钟与统计
-- 数据导入导出
+**Features and development goals:**
+- Task and subtask management
+- Priorities and deadlines
+- Local SQLite storage
+- Focus timer and productivity statistics
+- Data import and export
 
-> Small Steps, Real Progress.
+**Tech Stack:** `C++20` `Qt6` `QML` `SQLite` `CMake`
 
----
-
-## 🌱 关于我
-
-- 🎓 计算机科学与技术专业本科在读
-- 💻 目前主要使用 C++ 进行项目开发
-- 🐧 正在学习 Linux 网络编程、多线程、线程池与 Reactor 模型
-- 🖥️ 使用 Qt / QML 进行桌面应用开发
-- 🗄️ 接触过 MySQL、Redis、SQLite 等数据库
-- 🤖 正在学习 LLM Agent 与游戏 Agent 相关知识
-- 📚 持续练习数据结构、算法与计算机基础课程
-- ✍️ 会把部分学习过程整理成技术博客
+> Small Steps, Real Progress. 🌱
 
 ---
 
-## 🧰 技术栈
+## 🌷 About Me
 
-### 编程语言
+- 🎓 Currently pursuing a bachelor's degree in Computer Science and Technology.
+- 💻 Primarily working with C++ for personal projects.
+- 🐧 Interested in Linux, operating systems, networking, and concurrent programming.
+- 🖥️ Building desktop applications with Qt and QML.
+- 🗄️ Familiar with MySQL, Redis, and SQLite.
+- 🤖 Exploring LLM Agents, game AI, and AI-assisted interactive systems.
+- 📚 Continuously studying data structures, algorithms, and computer science fundamentals.
+- ✍️ Writing technical notes and sharing what I learn.
+
+I believe building projects is one of the best ways to understand how things work.
+
+---
+
+## 🧰 Tech Stack
+
+**Programming Languages**
 
 `C` `C++` `Python` `Java`
 
-### C++ / 客户端
+**C++ & Desktop Development**
 
 `C++11/17/20` `Qt5` `Qt6` `QML` `CMake`
 
-### Linux / 后端
+**Linux & Backend Development**
 
-`Linux` `Socket` `TCP/IP` `Epoll` `Multithreading` `Thread Pool`
+`Linux` `Socket Programming` `TCP/IP` `Epoll` `Multithreading` `Thread Pool` `Reactor`
 
-### 数据库与中间件
+**Databases & Middleware**
 
 `MySQL` `Redis` `SQLite`
 
-### 其他
+**Tools & Other Technologies**
 
 `Git` `GitHub` `Hadoop` `Hive`
 
 ---
 
-## 🚧 正在学习
+## 🚧 Currently Learning
 
-目前正在继续补充和深入这些内容：
+I'm currently spending more time exploring:
 
-- C++ 多线程与线程池
-- Linux 网络编程
-- Reactor 事件驱动模型
-- 日志系统与工程化开发
-- 数据结构与算法
-- LLM Agent / Game Agent
-- 操作系统与计算机网络
+- C++ concurrency and thread pool design
+- Linux network programming
+- Reactor and event-driven architectures
+- Logging systems and software engineering practices
+- Data structures and algorithms
+- LLM Agents and game AI
+- Operating systems and computer networks
 
----
-
-## ✍️ 学习记录
-
-我会持续记录自己的 C++、Linux、算法和后端学习过程。
-
-目前比较关注的内容包括：
-
-- C++ 回调与 `std::function`
-- Lambda 与闭包
-- 多线程同步
-- 线程池
-- Linux Socket 编程
-- 数据结构与算法
-
-CSDN：
-
-[stellanke](https://blog.csdn.net/stellanke)
+There's still a lot for me to learn, and that's part of what makes programming interesting.
 
 ---
 
-## English
+## ✍️ Learning Notes
 
-Computer Science and Technology undergraduate currently focusing on **C++, Linux, Qt, network programming and backend development**.
+I occasionally write about the concepts, problems, and lessons I encounter while studying and building projects.
 
-I use GitHub to record my projects, learning progress and technical practice.
+Some topics I've been exploring include:
+
+- C++ callbacks and `std::function`
+- Lambda expressions and closures
+- Multithreading and synchronization
+- Thread pool implementation
+- Linux socket programming
+- Data structures and algorithms
+
+📖 **Technical Blog:** [stellanke on CSDN](https://blog.csdn.net/stellanke)
+
+---
+
+## 💌 Let's Connect!
+
+I'm always happy to learn from other developers and exchange ideas.
+
+If you happen to explore one of my repositories, **I'd
