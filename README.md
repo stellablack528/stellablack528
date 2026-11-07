@@ -1,143 +1,182 @@
-# Hi there, I'm stellablack528! 👋
 
-🎓 I'm a Computer Science undergraduate with a growing interest in **C++, Linux, systems programming, network programming, and software development**.
+<div align="center">
 
-I enjoy turning what I learn into real projects. Rather than simply completing coursework, I prefer building things that I can maintain, improve, and learn from over time.
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:E8F5E9,50:A8D5BA,100:76B69A&height=210&section=header&text=Hello,%20I'm%20Stella!&fontSize=43&fontColor=285943&animation=fadeIn&fontAlignY=38&desc=Learning%20%7C%20Building%20%7C%20Growing&descAlignY=60&descSize=17)
 
-I'm still strengthening my fundamentals, exploring new technologies, and documenting my progress along the way.
+### 🌿 Welcome to my little corner of GitHub!
 
-💬 **I'd be happy to receive any feedback, suggestions, or code reviews that could help me improve.** Feel free to open an issue, share your thoughts, or reach out!
+**Computer Science Undergraduate | C++ Enthusiast | Linux & Systems Programming**
 
-⭐ If you find any of my projects interesting, I'd really appreciate your support!
+*Learning, building, and growing — one commit at a time.*
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-stellablack528-76B69A?style=flat-square&logo=github&logoColor=white)](https://github.com/stellablack528)
+[![Blog](https://img.shields.io/badge/Blog-CSDN-A8D5BA?style=flat-square&logo=bookstack&logoColor=285943)](https://blog.csdn.net/stellanke)
 
-## 📌 Featured Projects
-
-### 📖 TaleState C++
-
-[![TaleState C++](https://github-readme-stats.vercel.app/api/pin/?username=stellablack528&repo=talestate-cpp)](https://github.com/stellablack528/talestate-cpp)
-
-A **C++20-based narrative RPG engine** that combines deterministic world rules with LLM-powered storytelling.
-
-The project explores how language models can interpret player actions and generate narratives while a C++ engine maintains consistent and reliable game states.
-
-**Key areas:**
-- Data-driven narrative systems and JSON-based story packages
-- Deterministic state management and rule validation
-- LLM Agent integration and structured actions
-- Qt desktop application development
-- Automated testing and cross-platform builds
-
-**Tech Stack:** `C++20` `CMake` `JSON` `Qt6` `LLM Agent` `Catch2`
-
-> Exploring the intersection of software engineering, interactive storytelling, and AI.
+</div>
 
 ---
 
-### 🪄 Arcane Campus Online
+## 🌱 About Me
 
-[![Arcane Campus Online](https://github-readme-stats.vercel.app/api/pin/?username=stellablack528&repo=arcane-campus-online)](https://github.com/stellablack528/arcane-campus-online)
+Hi! I'm a **Computer Science and Technology undergraduate** who enjoys exploring how software works beneath the surface.
 
-A multiplayer online text-based RPG project built with **C++ and Linux network programming**.
+My main interests are **C++, Linux, network programming, backend development, and desktop applications**.
 
-This project helps me gain practical experience in backend architecture, network communication, and concurrent programming.
+I enjoy turning theoretical knowledge into practical projects. Rather than simply completing coursework, I prefer building things that I can maintain, improve, and learn from over time.
 
-**Key areas:**
-- TCP socket programming
-- Epoll-based event handling
-- Reactor architecture
-- Thread pools and multithreading
-- Client-server communication
-- Database integration
+I'm still strengthening my fundamentals, experimenting with new technologies, and documenting what I discover along the way.
 
-**Tech Stack:** `C++20` `Linux` `TCP` `Epoll` `Reactor` `Thread Pool` `Qt6` `MySQL` `Redis`
+- 🎓 Studying Computer Science and Technology
+- 💻 Primarily developing projects with C++
+- 🐧 Exploring Linux, operating systems, and networking
+- 🖥️ Building desktop applications with Qt and QML
+- 🤖 Interested in LLM Agents and interactive game systems
+- 📚 Practicing data structures, algorithms, and CS fundamentals
+- ✍️ Sharing my learning experiences through technical blogs
 
-> An ongoing project focused on strengthening my understanding of network programming and backend systems.
-
----
-
-### 🌱 TinyBloom
-
-[![TinyBloom](https://github-readme-stats.vercel.app/api/pin/?username=stellablack528&repo=TinyBloom-Personal-Planner)](https://github.com/stellablack528/TinyBloom-Personal-Planner)
-
-A free, open-source, **local-first personal planner** built with C++20, Qt6, QML, and SQLite.
-
-TinyBloom is designed to make daily planning feel simple and manageable while keeping personal data stored locally.
-
-**Features and development goals:**
-- Task and subtask management
-- Priorities and deadlines
-- Local SQLite storage
-- Focus timer and productivity statistics
-- Data import and export
-
-**Tech Stack:** `C++20` `Qt6` `QML` `SQLite` `CMake`
-
-> Small Steps, Real Progress. 🌱
-
----
-
-## 🌷 About Me
-
-- 🎓 Currently pursuing a bachelor's degree in Computer Science and Technology.
-- 💻 Primarily working with C++ for personal projects.
-- 🐧 Interested in Linux, operating systems, networking, and concurrent programming.
-- 🖥️ Building desktop applications with Qt and QML.
-- 🗄️ Familiar with MySQL, Redis, and SQLite.
-- 🤖 Exploring LLM Agents, game AI, and AI-assisted interactive systems.
-- 📚 Continuously studying data structures, algorithms, and computer science fundamentals.
-- ✍️ Writing technical notes and sharing what I learn.
-
-I believe building projects is one of the best ways to understand how things work.
+> 🌷 **I'd be happy to receive any feedback, suggestions, or code reviews that could help me improve.**
+>
+> Feel free to explore my repositories, open an issue, or share your thoughts. I always appreciate the opportunity to learn from other developers!
 
 ---
 
 ## 🧰 Tech Stack
 
-**Programming Languages**
+<div align="center">
 
-`C` `C++` `Python` `Java`
+### Languages
 
-**C++ & Desktop Development**
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java&theme=light" alt="Programming languages" />
 
-`C++11/17/20` `Qt5` `Qt6` `QML` `CMake`
+### Development & Tools
 
-**Linux & Backend Development**
+<img src="https://skillicons.dev/icons?i=linux,qt,cmake,git,github,vscode,visualstudio&theme=light" alt="Development tools" />
 
-`Linux` `Socket Programming` `TCP/IP` `Epoll` `Multithreading` `Thread Pool` `Reactor`
+### Databases & Technologies
 
-**Databases & Middleware**
+<img src="https://skillicons.dev/icons?i=mysql,redis,sqlite,docker&theme=light" alt="Databases and technologies" />
 
-`MySQL` `Redis` `SQLite`
+</div>
 
-**Tools & Other Technologies**
+**Other technologies I'm exploring:**
 
-`Git` `GitHub` `Hadoop` `Hive`
+`TCP/IP` `Socket Programming` `Epoll` `Reactor` `Multithreading` `Thread Pool` `Hadoop` `Hive`
 
 ---
 
-## 🚧 Currently Learning
+## 🌼 Featured Projects
 
-I'm currently spending more time exploring:
+Here are some projects I've been working on.
 
-- C++ concurrency and thread pool design
-- Linux network programming
-- Reactor and event-driven architectures
-- Logging systems and software engineering practices
-- Data structures and algorithms
-- LLM Agents and game AI
-- Operating systems and computer networks
+### 📖 TaleState C++
 
-There's still a lot for me to learn, and that's part of what makes programming interesting.
+[![TaleState C++](https://github-stats-extended.vercel.app/api/pin/?username=stellablack528&repo=talestate-cpp&bg_color=F3FAF5&title_color=356B55&text_color=496957&icon_color=78B69A&border_color=B9DDC5)](https://github.com/stellablack528/talestate-cpp)
+
+A **C++20-based narrative RPG engine** exploring the combination of deterministic world rules and LLM-powered interactive storytelling.
+
+The project aims to separate reliable game-state management from AI-generated narratives, making interactive stories more consistent and extensible.
+
+**Key areas:**
+- Data-driven narrative systems
+- Deterministic rules and state management
+- LLM Agent integration
+- Structured player actions
+- Qt desktop application development
+- Software testing and modular design
+
+**Tech Stack:**
+
+`C++20` `CMake` `JSON` `Qt6` `LLM Agent` `Catch2`
+
+> Exploring how structured software systems and generative AI can work together in interactive storytelling.
+
+[Explore TaleState C++](https://github.com/stellablack528/talestate-cpp)
+
+---
+
+### 🪄 Arcane Campus Online
+
+[![Arcane Campus Online](https://github-stats-extended.vercel.app/api/pin/?username=stellablack528&repo=arcane-campus-online&bg_color=F3FAF5&title_color=356B55&text_color=496957&icon_color=78B69A&border_color=B9DDC5)](https://github.com/stellablack528/arcane-campus-online)
+
+An ongoing **multiplayer online text-based RPG** project built to explore Linux network programming and backend architecture.
+
+I'm using this project to better understand concurrent servers, network communication, and the design of maintainable C++ systems.
+
+**Key areas:**
+- TCP socket programming
+- Epoll-based I/O multiplexing
+- Reactor event-driven architecture
+- Thread pools and concurrent programming
+- Client-server communication
+- MySQL and Redis integration
+
+**Tech Stack:**
+
+`C++20` `Linux` `TCP` `Epoll` `Reactor` `Thread Pool` `Qt6` `MySQL` `Redis`
+
+> Currently focusing on the underlying architecture and network communication components.
+
+[Explore Arcane Campus Online](https://github.com/stellablack528/arcane-campus-online)
+
+---
+
+### 🌷 TinyBloom
+
+[![TinyBloom](https://github-stats-extended.vercel.app/api/pin/?username=stellablack528&repo=TinyBloom-Personal-Planner&bg_color=F3FAF5&title_color=356B55&text_color=496957&icon_color=78B69A&border_color=B9DDC5)](https://github.com/stellablack528/TinyBloom-Personal-Planner)
+
+A **local-first personal planner** developed with C++20, Qt6, QML, and SQLite.
+
+TinyBloom is designed to help people organize tasks, build productive habits, and track their progress while keeping their data locally.
+
+**Features and development goals:**
+- Task and subtask management
+- Priorities and deadlines
+- Local SQLite data storage
+- Focus timer and productivity statistics
+- Data import and export
+- A simple and friendly desktop interface
+
+**Tech Stack:**
+
+`C++20` `Qt6` `QML` `SQLite` `CMake`
+
+> 🌱 Small Steps, Real Progress.
+
+[Explore TinyBloom](https://github.com/stellablack528/TinyBloom-Personal-Planner)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=stellablack528&show_icons=true&bg_color=F3FAF5&title_color=356B55&text_color=496957&icon_color=78B69A&border_color=B9DDC5&hide_rank=true" alt="GitHub statistics" />
+
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=stellablack528&layout=compact&bg_color=F3FAF5&title_color=356B55&text_color=496957&border_color=B9DDC5&langs_count=6" alt="Most used languages" />
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+I'm continuously exploring and strengthening my understanding of:
+
+- **Modern C++:** concurrency, callbacks, templates, and software design
+- **Linux Networking:** sockets, epoll, and Reactor architecture
+- **Backend Engineering:** thread pools, logging, and server architecture
+- **Computer Science:** operating systems, networks, and data structures
+- **AI & Interactive Systems:** LLM Agents, game AI, and narrative engines
+
+I enjoy learning through experimentation, reading documentation, and building small but meaningful projects.
 
 ---
 
 ## ✍️ Learning Notes
 
-I occasionally write about the concepts, problems, and lessons I encounter while studying and building projects.
+I occasionally document my learning process, including the problems I encounter and the solutions I discover.
 
-Some topics I've been exploring include:
+Some topics I've explored include:
 
 - C++ callbacks and `std::function`
 - Lambda expressions and closures
@@ -146,12 +185,24 @@ Some topics I've been exploring include:
 - Linux socket programming
 - Data structures and algorithms
 
-📖 **Technical Blog:** [stellanke on CSDN](https://blog.csdn.net/stellanke)
+📖 **My Technical Blog:** [stellanke on CSDN](https://blog.csdn.net/stellanke)
 
 ---
 
 ## 💌 Let's Connect!
 
-I'm always happy to learn from other developers and exchange ideas.
+I'm always open to exchanging ideas and learning from other developers.
 
-If you happen to explore one of my repositories, **I'd
+If you find something interesting in my repositories, I'd love to hear your thoughts!
+
+**Suggestions, constructive feedback, and code reviews are always welcome.** 🌱
+
+Thank you for visiting my GitHub profile!
+
+<div align="center">
+
+*Stay curious. Keep learning. Make something meaningful.*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:76B69A,50:A8D5BA,100:E8F5E9&height=110&section=footer)
+
+</div>
