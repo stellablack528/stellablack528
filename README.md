@@ -13,6 +13,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-stellablack528-76B69A?style=flat-square&logo=github&logoColor=white)](https://github.com/stellablack528)
 [![Blog](https://img.shields.io/badge/Blog-CSDN-A8D5BA?style=flat-square&logo=bookstack&logoColor=285943)](https://blog.csdn.net/stellanke)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-A8D5BA?style=flat-square&logo=gmail&logoColor=285943)](mailto:stellablack528@gmail.com)
 
 </div>
 
@@ -137,6 +138,8 @@ I occasionally write about C++, Linux, algorithms, and the challenges I encounte
 I'm always open to exchanging ideas and learning from other developers.
 
 **Feedback, suggestions, and code reviews are always welcome!**
+
+📧 **Email:** [stellablack528@gmail.com](mailto:stellablack528@gmail.com)
 
 Thanks for visiting my profile! 🌷
 
